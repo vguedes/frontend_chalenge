@@ -39,7 +39,7 @@ No container executar `./manage.py createsuperuser`
 - **Observação:** Ao clicar/acessar http://localhost:8000/api/todos/`, acessa uma página que pode fazer CRUD nos Todos.
 
 ## Enviando o desafio
-1. Subir o repo clonado do original e compartilhar com @vguedes no Github.
+1. Subir em sua conta pessoal o repo clonado do original e compartilhar com o criador do repo do desafio (@vguedes) no Github.
 1. Contactar o/a tech recruiter e informar que concluiu o desafio.
 
 ## Dúvidas
