@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  web:
+    build: .
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - ./todo/:/code
+      - ./todo/db.sqlite3:/code/db.sqlite3
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///db.sqlite3
