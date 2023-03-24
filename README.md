@@ -1,7 +1,7 @@
 # Desafio Frontend
 
 ## Observações importantes
-1. Se organizar para rabalhar até no máximo **6 horas** nesse projeto.
+1. Se organizar para trabalhar até no máximo **6 horas** nesse projeto.
 
 1. Adicione comentários, arquivos, explicações da sua forma de pensar e, principalmente, do que não tiver tempo de implementar.
 
